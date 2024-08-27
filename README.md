@@ -30,8 +30,3 @@ This project is intended for learning and is open to contributions. Feel free to
 ## License
 
 This project is for educational purposes and is not subject to copyright. 
-
----
-
-Enjoy browsing through cute cat photos and learning more about our feline friends!
-```
